@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+
+ h1 {
+  font-family: 'Srisakdi', cursive;
+  font-size: 18px;
+}
+
+p {
+  font-size: 12px;
+}
